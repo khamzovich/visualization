@@ -5,3 +5,6 @@
 
 ### cohort_analysis.ipynb
 ![Image](https://github.com/khamzovich/visualization/raw/main/images/cohort_retention.png)
+
+### matplotlib_tutorial.ipynb
+![Image](https://github.com/khamzovich/visualization/raw/main/images/matplotlib_tutorial.png)
