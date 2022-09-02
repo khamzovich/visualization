@@ -10,3 +10,7 @@
 
 ### matplotlib_tutorial.ipynb
 ![Image](https://github.com/khamzovich/visualization/raw/main/images/matplotlib_tutorial.png)
+
+### plotly_sankey.ipynb
+![Image](https://github.com/khamzovich/visualization/raw/main/images/plotly_sankey.png)
+
